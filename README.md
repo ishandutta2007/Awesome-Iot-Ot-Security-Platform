@@ -63,9 +63,9 @@ The global IoT and OT security market size is estimated at **$25 billion–$30 b
 
 ## 🔓 Open-Source GitHub Projects
 
-Below is a curated selection of open-source tools, protocol parsers, IDS engines, and security frameworks relevant to IoT and OT network security monitoring, ranked by GitHub Star count.
+Below is a curated selection of open-source tools, protocol parsers, IDS engines, and security frameworks relevant to IoT and OT network security monitoring, ranked by GitHub Stars_Count.
 
-| 📦 Open-Source Project | 📝 Description | ⭐ Star Count |
+| 📦 Open-Source Project | 📝 Description | ⭐ Stars_Count |
 | :--- | :--- | :--- |
 | **[Metasploit Framework](https://github.com/rapid7/metasploit-framework)** | World-leading penetration testing framework containing numerous modules for auditing and testing ICS/SCADA hardware and protocols. | [![Stars](https://img.shields.io/github/stars/rapid7/metasploit-framework?style=social&color=white)](https://github.com/rapid7/metasploit-framework/stargazers) |
 | **[Nmap](https://github.com/nmap/nmap)** | Essential network discovery and security auditing utility with extensive Nmap Scripting Engine (NSE) scripts for OT/ICS protocol identification (Modbus, BACnet, S7, Ethernet/IP). | [![Stars](https://img.shields.io/github/stars/nmap/nmap?style=social&color=white)](https://github.com/nmap/nmap/stargazers) |
